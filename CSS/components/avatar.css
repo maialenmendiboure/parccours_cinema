@@ -1,0 +1,8 @@
+.avatar {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.avatar:hover {
+  transform: scale(1.5); 
+}
